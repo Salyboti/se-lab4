@@ -1,0 +1,2 @@
+GT4500,0,0,10,0       # Inicializálás 0 torpedóval a primary store-ban és 10 torpedóval a secondary store-ban
+TORPEDO,ALL           # ALL tüzelés, csak a secondary store-ból tüzel

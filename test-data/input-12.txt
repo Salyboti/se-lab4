@@ -1,0 +1,4 @@
+GT4500,1,0,0,0        # Inicializálás 1 torpedóval a primary store-ban, secondary store üres
+TORPEDO,SINGLE        # SINGLE tüzelés a primary store-ból
+TORPEDO,SINGLE        # Újabb SINGLE tüzelés, de a primary store üres
+TORPEDO,ALL           # ALL tüzelés, de mindkét tároló üres

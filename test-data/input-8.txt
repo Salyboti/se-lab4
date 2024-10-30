@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,0    # Inicializálás 10 torpedóval mindkét tárolóban, de a primary hibás
+TORPEDO,ALL           # ALL tüzelés, primary hibás, secondary sikeres

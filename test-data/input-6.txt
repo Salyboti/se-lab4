@@ -1,0 +1,2 @@
+GT4500,0,0,0,0        # Inicializálás mindkét tárolóban 0 torpedóval
+TORPEDO,ALL           # ALL tüzelés, sikertelen tüzelés, mivel egyik tárolóban sincs torpedó

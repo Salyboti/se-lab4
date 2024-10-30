@@ -1,0 +1,2 @@
+GT4500,10,0,10,0      # Inicializálás 10 torpedóval mindkét tárolóban, hibamentes tárolókkal
+TORPEDO,ALL           # ALL tüzelés, mindkét tárolóból tüzelni kell

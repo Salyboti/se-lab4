@@ -1,0 +1,4 @@
+GT4500,10,0,10,0      # Inicializálás 10 torpedóval mindkét tárolóban, hibamentes tárolókkal
+TORPEDO,SINGLE        # Első tüzelés: primary store
+TORPEDO,SINGLE        # Második tüzelés: secondary store
+TORPEDO,SINGLE        # Harmadik tüzelés: vissza a primary store-hoz

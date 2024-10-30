@@ -1,0 +1,4 @@
+SUCCESS               # A GT4500 sikeresen inicializálódott
+SUCCESS               # Sikeres tüzelés a primary store-ból
+SUCCESS               # Sikeres tüzelés a secondary store-ból
+SUCCESS               # Sikeres tüzelés a primary store-ból

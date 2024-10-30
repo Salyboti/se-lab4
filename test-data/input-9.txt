@@ -1,0 +1,2 @@
+GT4500,0,0,10,1.0     # Inicializálás 0 torpedóval a primary store-ban és 10 torpedóval a secondary store-ban (hibás)
+TORPEDO,SINGLE        # Próbálkozik a primary store-ral (üres), majd a secondary store-ral (hibás)

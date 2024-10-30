@@ -1,0 +1,4 @@
+SUCCESS               # A GT4500 sikeresen inicializálódott
+SUCCESS               # Sikeres tüzelés a primary store-ból
+FAIL                  # Sikertelen tüzelés, mivel a primary store üres
+FAIL                  # Sikertelen ALL tüzelés, mivel mindkét tároló üres
